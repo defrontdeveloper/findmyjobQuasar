@@ -1,6 +1,6 @@
 <template>
   <section class="row">
-    <div class="profile-wrapper col-sm-12 col-md-3 col-12">
+    <div class="profile-wrapper col-sm-12 col-md-4 col-12">
       <h3 class="title">Perfil profesional</h3>
 
       <div class="q-mt-sm">
